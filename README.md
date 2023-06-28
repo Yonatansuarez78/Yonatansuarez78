@@ -1,7 +1,8 @@
 # ¡Hola, bienvenido a mi perfil de GitHub! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Follow&style=social)](https://github.com/Yonatansuarez78)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu_usuario?style=social)](https://twitter.com/tu_usuario)
+[![Instagram Follow](https://img.shields.io/badge/Follow-%40tu_usuario-orange?style=social&logo=instagram)](https://www.instagram.com/yonatan_suarez78/)
+
 
 ## Acerca de mí
 ¡Hola! Soy Yonatan Suarez, un apasionado de la programación y la tecnología. Me encanta aprender cosas nuevas y compartir mis conocimientos con los demás. En mi perfil encontrarás proyectos interesantes, contribuciones a proyectos de código abierto y otros recursos que pueden ser útiles.
