@@ -16,8 +16,8 @@
 Si deseas ponerse en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Mis proyectos: https://github.com/Yonatansuarez78
-- Correo electrónico: Yonatansuarez78@gmail.com)
-- LinkedIn: Yonatan David Pechene Suarez(https://www.linkedin.com/in/yonatansuarez78)
+- Correo electrónico: Yonatansuarez78@gmail.com
+- LinkedIn: Yonatan David Pechene Suarez(https://www.linkedin.com/in/yonatansuarez78
 
 ¡No dudes en explorar mis proyectos y contribuciones! Espero que encuentres algo interesante y útil. ¡Gracias por visitar mi perfil!
 
