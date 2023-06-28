@@ -1,7 +1,7 @@
 # ¡Hola, bienvenido a mi perfil de GitHub! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Follow&style=social)](https://github.com/tu_usuario)
-[![Instagram](https://img.shields.io/badge/Follow-%40tu_usuario-orange?style=social&logo=instagram)](https://www.instagram.com/tu_usuario/)
+[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Follow&style=social)](https://github.com/Yonatansuarez78)
+[![Instagram](https://img.shields.io/badge/Follow-%40tu_usuario-orange?style=social&logo=instagram)](https://www.instagram.com/yonatan_suarez78/)
 
 
 
